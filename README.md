@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/aarvi18](https://github.com/aarvi18)
 
-- 💬 Ask me about C Java HTML CSS JavaScript Git
+- 💬 Ask me about C C++ HTML CSS JavaScript Git
 
 - 📫 How to reach me *rakeshcse123@gmail.com*
 
