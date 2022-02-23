@@ -2,29 +2,27 @@
 
 <!--
 **aarvi18/aarvi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Weather info. system with react.js
+- 🌱 I’m currently learning ReactNative
+- 💬 Ask me about Git . GitHub & Web Development
+- 📫 How to reach me: rakeshcse123@gmail.com
+- ⚡ Fun fact: I know it’s crazy, but I love to eat 😅
+
 
 <body>
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A Full stack web developer & a compatative coder with c++</h3>
+<h3 align="center">A Passionate Full Stack Web Developer And A CC with C++ From India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aarvi18&label=Profile%20views&color=0e75b6&style=flat" alt="aarvi18" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarvi18&theme=nord" alt="aarvi18" /></a> </p>
 <img align="right" alt="Coder" width="500" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
-- 🌱 I’m currently Studying at **Acharya institute of technology**
+- 🌱 I’m currently Studying at **Acharya Institute Of Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aarvi18](https://github.com/aarvi18)
 
