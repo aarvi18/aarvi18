@@ -18,7 +18,7 @@
 - 🌱 I’m currently Studying at **Acharya Institute Of Technology**
 - 👨‍💻 All of my projects are available at [https://github.com/aarvi18](https://github.com/aarvi18)
 - 🔭 I’m currently working on **Online Cake Order System**
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Python**
 - 💬 Ask me about Git . GitHub & Web Development
 - 📫 How to reach me: **rakeshcse123@gmail.com**
 - ⚡ Fun fact : **I know it’s crazy, but I love to eat** 😅
