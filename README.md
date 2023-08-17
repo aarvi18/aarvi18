@@ -15,10 +15,9 @@
 
 <img align="right" alt="Coder" width="400" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 
-- 🌱 I’m currently Studying at **Acharya Institute Of Technology**
-- 👨‍💻 All of my projects are available at [https://github.com/aarvi18](https://github.com/aarvi18)
+- 🌱 I’m currently Studying BE CSE at **Acharya Institute Of Technology**
+- 👨‍💻 All of my projects are available at [https://github.com/aarvi18](https://github.com/aarvi18) or [aarvi18.codes](https://aarvi18.codes/)
 - 🔭 I’m currently working on **Online Cake Order System**
-- 🌱 I’m currently learning **Java & Python**
 - 💬 Ask me about Git . GitHub & Web Development
 - 📫 How to reach me: **rakeshcse123@gmail.com**
 - ⚡ Fun fact : **I know it’s crazy, but I love to eat** 😅
