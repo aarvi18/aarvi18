@@ -13,10 +13,10 @@
 [![An image of @aarvi18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarvi18)](https://holopin.io/@aarvi18)    
 
 
-- 🌱 I’m currently Studying BE CSE at **Acharya Institute Of Technology**
+- 🌱 Completed BE CSE degree from **Acharya Institute Of Technology** in 2024
 - 👨‍💻 All of my projects are available at [GitHub Account](https://github.com/aarvi18) or [Portfolio. Website](https://aarvi18.codes/)
-- 🔭 I’m currently working with **DezainaHub & Curiosense Innovations Pvt Ltd**
-- 💬 Ask me about Git . GitHub & Web Development
+- 🔭 I’m currently working with **App2Build Learning** as a Mobile Application Developer
+- 💬 Ask me about Git, GitHub, App Development & Web Development
 - 📫 How to reach me: **rakeshcse123@gmail.com**
 - ⚡ Fun fact : **I know it’s crazy, but I love to eat** 😅
 
