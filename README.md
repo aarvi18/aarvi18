@@ -1,29 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A Passionate JavaScript Developer From India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarvi18&label=Profile%20views&color=0e75b6&style=flat" alt="aarvi18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aarvi18&label=Profile%20views&color=0e75b6&style=flat" alt="aarvi18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarvi18" alt="aarvi18" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/rakesh_aarvi" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_aarvi?logo=twitter&style=for-the-badge" alt="rakesh_aarvi" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/rakesh_aarvi" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_aarvi?logo=twitter&style=for-the-badge" alt="rakesh_aarvi" /></a> </p>
+- 🌱 I’m currently learning **C++, Spring Boot**
 
-- 🔭 I’m currently working on [InternLink](https://internlink.co/)
+- 👨‍💻 All of my projects are available at [Portfolio.](https://aarvi18.github.io/rakeshportfolio/)
 
-- 🌱 I’m currently learning **Mobile Application Devlopment**
-
-- 👨‍💻 All of my projects are available at [https://aarvi18.github.io/rakeshportfolio/](https://aarvi18.github.io/rakeshportfolio/)
-
-- 💬 Ask me about **Backend & Frontend**
+- 💬 Ask me about **JavaScript -For Web & Mobile Apps**
 
 - 📫 How to reach me **rakeshcse123@gmail.com**
 
 - ⚡ Fun fact **I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/rakesh_aarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh_aarvi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/rakesh-kumar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rakesh-kumar18" height="30" width="40" /></a>
-<a href="https://instagram.com/rakesh_aarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh_aarvi" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/rakesh_aarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakesh_aarvi" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/aarvi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarvi18" height="30" width="40" /></a>
 </p>
 
@@ -35,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarvi18&show_icons=true&locale=en" alt="aarvi18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarvi18&" alt="aarvi18" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarvi18" alt="aarvi18" /></a> </p>
