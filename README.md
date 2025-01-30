@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently building **Meuzz** [meuzz.com](https://www.meuzz.com)
 
-- 👨‍💻 All of my projects are available at [Portfolio.](https://aarvi18.github.io/rakeshportfolio/)
-
 - 💬 Ask me about **JavaScript -For Mobile Apps & Web**
 
 - 📫 How to reach me **rakeshcse123@gmail.com**
+  
+- 👨‍💻 Joke : **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 - ⚡ Fun fact **I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)**
 
