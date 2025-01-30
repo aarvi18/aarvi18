@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rakesh_aarvi" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_aarvi?logo=twitter&style=for-the-badge" alt="rakesh_aarvi" /></a> </p> -->
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently building **Meuzz**
 
 - 👨‍💻 All of my projects are available at [Portfolio.](https://aarvi18.github.io/rakeshportfolio/)
 
-- 💬 Ask me about **JavaScript -For Web & Mobile Apps**
+- 💬 Ask me about **JavaScript -For Mobile Apps & Web**
 
 - 📫 How to reach me **rakeshcse123@gmail.com**
 
