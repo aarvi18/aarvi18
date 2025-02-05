@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rakeshcse123@gmail.com**
   
-- 📫 Find my resume here [My Resume](https://docs.google.com/document/d/14SwdXlxswHBzfgEWh8OCzevm3Th5HnqalkKeC02ybe8/edit?usp=sharing)
+- 🗎 Find my resume here [My Resume](https://docs.google.com/document/d/14SwdXlxswHBzfgEWh8OCzevm3Th5HnqalkKeC02ybe8/edit?usp=sharing)
   
 - 👨‍💻 Joke : **Why do programmers prefer dark mode? Because light attracts bugs!**
 
