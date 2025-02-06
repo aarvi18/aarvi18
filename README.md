@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rakesh_aarvi" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_aarvi?logo=twitter&style=for-the-badge" alt="rakesh_aarvi" /></a> </p> -->
 
-- 🌱 I’m currently building **Meuzz** [meuzz.com](https://www.meuzz.com)
+- 🌱 I’m currently building [Meuzz](https://www.meuzz.com)
 
-- 💬 Ask me about **JavaScript -For Mobile Apps & Web**
+- 💬 Ask me about **JavaScript** for mobile apps and web development.
 
 - 📫 How to reach me **rakeshcse123@gmail.com**
   
