@@ -40,4 +40,12 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarvi18&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="aarvi18" /></p>
 </div>
 
+<br>
+
+<h2 align="center"> Contribution Graph </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarvi18&bg_color=151515&&color=ffffff&line=fb8c00&point=ffffff&area=true&hide_border=false" 
+         style="width: 70%; max-width: 500px; height: auto;">
+</div>
+
 
