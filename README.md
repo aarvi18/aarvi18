@@ -36,7 +36,7 @@
 
 <h2 align="center">Here are some stats.</h2>
 <div align="center">
-  <p align="center"><img src="https://streak-stats.demolab.com?user=aarvi18&theme=dark" alt="GitHub Streak" /></p>
+  <p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=aarvi18&theme=dark" alt="GitHub Streak" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarvi18&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="aarvi18" /></p>
 </div>
 
